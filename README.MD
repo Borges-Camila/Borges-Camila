@@ -1,22 +1,29 @@
 <h1 align="center">Hi 👋, I'm Camila Borges</h1>
-<h3 align="center">A TripleTen student of web development, it's a pleasure having you here. I have a law degree, but I've always been passionate about art, design and technology, and it was in 2024 that I decided to start my studies in the area.</h3>
+<h3 align="center">I'm a TripleTen student of web development, and it's a pleasure having you here. I have a law degree, but I've always been passionate about art, design and technology, and it was in 2024 that I decided to start my studies in the area.</h3>
 
 - 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Borges-Camila?tab=repositories](https://github.com/Borges-Camila?tab=repositories)
+- 👨‍💻 All of my projects are available at my [**GitHub**](https://github.com/Borges-Camila?tab=repositories), so give it a look!
 
 - 💬 Ask me about **JavaScript, HTML, CSS or any of my projects. And feel free to reach out to me! I'm sure we're gonna have a nice chat!**
 
-- 📫 How to reach me **camis02121999@gmail.com**
+- 📄 You can read more about my experiences at my LinkedIn linked below.
 
-- 📄 Know about my experiences [www.linkedin.com/in/camila-borges-de-jesus-8baa3622b](www.linkedin.com/in/camila-borges-de-jesus-8baa3622b)
+- ⚡ **Fun fact:** A total nerd here! Love manga, anime and manhwa. And, recently, I've been looking into games as well...
 
-- ⚡ Fun fact: **A total nerd here! Love manga, anime and manhwa. And, recently, I've been looking into games as well...**
+<h3 align="left">My Projects: </h3>
+
+- My first project using React is an adaptation of a previous project that is already in my repositories. Besides being challenging, this project brought me a lot of knowledge and growth as a web developer. [**Around The U.S.**](https://github.com/Borges-Camila/web_project_around_react)
+
+- A project I particularly loved working on. Where I was able to create something fun and rewarding. I intend to keep developing this project to make it even more beautiful, interactive, and functional. [**The Cat Game**](https://borges-camila.github.io/Cat_game/)
+
+- This is a creative project that combined my passion for art and programming. One interesting feature I learned to develop was a button that allows users to download their artwork, so they can keep it saved! [**Pixel Art**](https://borges-camila.github.io/PixelArt/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/camila-borges-de-jesus-8baa3622b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/camila-borges-de-jesus-8baa3622b" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/pqW7qPVvDP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/pqW7qPVvDP" height="30" width="40" /></a>
+<a href="mailto:camis02121999@gmail.com" width="60" > 📩 </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
